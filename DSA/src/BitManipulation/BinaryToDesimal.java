@@ -18,9 +18,9 @@ public class BinaryToDesimal {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-		String  n=scan.nextLine();
+		 String n=scan.nextLine(); 
 		
-		BToD(n);
+		 BToD(n); 
 		
 	}
 
